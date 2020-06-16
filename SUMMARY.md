@@ -7,4 +7,8 @@
 * [Git](Git/README.md)
     * [submodule](Git/submodule.md)
 * [GitBook](GitBook/README.md)
+    * [生成pdf等](GitBook/生成pdf等.md)
+    * [去除publish-with-gitbook](GitBook/去除publish-with-gitbook.md)
+* [shell](shell/README.md)
+    * [grep](shell/grep.md)
 
