@@ -7,6 +7,7 @@
 * [Git](Git/README.md)
     * [tag](Git/tag.md)
     * [submodule](Git/submodule.md)
+    * [pull_request](Git/pull_request.md)
 * [GitBook](GitBook/README.md)
     * [生成pdf等](GitBook/生成pdf等.md)
     * [去除publish-with-gitbook](GitBook/去除publish-with-gitbook.md)
